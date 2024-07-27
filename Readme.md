@@ -5,7 +5,7 @@ npm init
 
 ### Установка jest
 ```
-npm i -D jest
+npm install --save-dev jest
 ```
 
 ### Запуск теста
